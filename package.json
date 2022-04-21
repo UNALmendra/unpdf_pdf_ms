@@ -1,0 +1,19 @@
+{
+  "name": "pdf_un",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hummus": "^1.0.110",
+    "iojs": "^1.0.0",
+    "pdf-merger-js": "^3.4.0"
+  }
+}
